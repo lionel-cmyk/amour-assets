@@ -13,6 +13,32 @@ to piggyback on their audience and the collab algorithm boost.
   spillover is worth the most there).
 - On a 36-post cycle this adds ~9 muse slots per cycle.
 
+## Reorganized order — next 12 posts
+
+Muse slots at positions 3, 7 and 11; the five staged archive assets spaced so
+faces, places and icons alternate. "Brand post" = next product/brand post from
+the existing 108-post schedule.
+
+| # | Post | Asset / creator |
+|---|------|-----------------|
+| 1 | Icône ♀ — Deneuve, sixties seaside | `fr08.jpg` |
+| 2 | Brand post | from schedule |
+| 3 | **MUSE 1 — Lexi Lou** (@lexi_lou_thur) | collab post |
+| 4 | Lieu — La Grande-Motte, 70s Riviera | `fr04.jpg` |
+| 5 | Brand post | from schedule |
+| 6 | Icône ♀ — Casta, YSL roses | `fr03p.jpg` |
+| 7 | **MUSE 2 — Vanessa Frankenstein** | collab post |
+| 8 | Vintage ♂ — plongeurs de la Seine | `fr06.jpg` |
+| 9 | Brand post | from schedule |
+| 10 | Icône ♂ — Gainsbourg, nouveau profil | `candSG1.jpg` |
+| 11 | **MUSE 3 — Liv Purvis** (backup: Sammi Jefcoate) | collab post |
+| 12 | Brand post | from schedule |
+
+**Swap rule:** a muse slot only goes live once the creator has said yes /
+accepted the Collab invite. If the yes hasn't landed by the slot date, the next
+archive or brand post moves up and the muse slot slides back — the feed never
+waits on a DM.
+
 ## The two slot types
 
 **Muse ♀ — vintage feminine.** A bit sensual but tasteful, strong vintage
@@ -92,9 +118,12 @@ creator again without written permission.
 
 | Creator | Handle | Type | Followers | DM sent | Permission | Gifted frame | Posted |
 |---|---|---|---|---|---|---|---|
-| Alexis Reed (Lexi Lou) | @lexi_lou_thur | ♀ vintage | ~80K | | | | |
-| | | ♂ 70s shorts | | | | | |
-| | | | | | | | |
+| Alexis Reed (Lexi Lou) | @lexi_lou_thur | ♀ vintage, collab-ready (Collabstr) | ~80K | | | | |
+| Vanessa Frankenstein | (verify handle) | ♀ the most 70s-inspired look, working model | | | | | |
+| Liv Purvis | (verify handle) | ♀ late-60s/70s UK — flares, suede, neckerchiefs | | | | | |
+| Sammi Jefcoate | (verify handle) | ♀ retro tailoring (backup for slot 11) | | | | | |
+| Menswear Retrospective | @malemodel.retro | ♂ 80s/90s male-model archive — repost partner | ~16K | | | | |
+| (to scout) | | ♂ 70s shorts, living creator | | | | | |
 
 Fill the pipeline: search hashtags #70sfashion #vintagestyle #retroeyewear
 #frenchgirlstyle and the "suggested" rail from each candidate's profile.
