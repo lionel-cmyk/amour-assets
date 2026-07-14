@@ -119,11 +119,18 @@ creator again without written permission.
 | Creator | Handle | Type | Followers | DM sent | Permission | Gifted frame | Posted |
 |---|---|---|---|---|---|---|---|
 | Alexis Reed (Lexi Lou) | @lexi_lou_thur | ♀ vintage, collab-ready (Collabstr) | ~80K | | | | |
-| Vanessa Frankenstein | (verify handle) | ♀ the most 70s-inspired look, working model | | | | | |
-| Liv Purvis | (verify handle) | ♀ late-60s/70s UK — flares, suede, neckerchiefs | | | | | |
-| Sammi Jefcoate | (verify handle) | ♀ retro tailoring (backup for slot 11) | | | | | |
+| Kelly Golightly (Kelly Lee) | @kellygolightly | ♀ Palm Springs glamour — MCM houses, pools, caftans | ~77K | | | | |
+| Vanessa Frankenstein | @vanessafrankenstein | ♀ 70s filmic sensual portraits, working model | ~12K | | | | |
+| Rose Duke | @70sworship | ♀ 70s interiors, earth tones, era styling | | | | | |
+| Jasmine Chiswell | (IG/TikTok) | ♀ 50s Hollywood — lives in Marilyn's ex-house (mega, agency route) | ~15.5M | | | | |
+| Liv Purvis | (verify handle) | ♀ late-60s/70s UK — flares, suede (backup) | | | | | |
+| Scott Fraser Simpson | @scottfrasersimpson | ♂ 50s–70s Riviera knitwear designer, London | ~21K (+81K brand) | | | | |
+| Dandy Wellington | @dandywellington | ♂ Harlem vintage style activist, bandleader | ~138K | | | | |
+| Jason Jules | @garmsville | ♂ Black Ivy author, London vintage style | ~70K | | | | |
+| James Jonathan Turner | @jamesjonathant | ♂ travelling tailor, 50s Hollywood look | | | | | |
+| Aaron Fleming | @retrogarageofficial | ♂ classic cars + retro lifestyle | | | | | |
+| Dandy Del Mar | @dandydelmar | ♂ brand — 60s/70s Mediterranean resort wear, pools/terry cloth (partner) | ~113K | | | | |
 | Menswear Retrospective | @malemodel.retro | ♂ 80s/90s male-model archive — repost partner | ~16K | | | | |
-| (to scout) | | ♂ 70s shorts, living creator | | | | | |
 
 Fill the pipeline: search hashtags #70sfashion #vintagestyle #retroeyewear
 #frenchgirlstyle and the "suggested" rail from each candidate's profile.
